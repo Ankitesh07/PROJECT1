@@ -1,0 +1,97 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: pink;
+    padding: 50px;
+}
+
+.container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    color: red;
+}
+
+button {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 10px;body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: pink;
+    padding: 50px;
+}
+
+.container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    color: red;
+}
+
+button {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#yes-btn {
+    background-color: green;
+    color: white;
+}
+
+#no-btn {
+    background-color: red;
+    color: white;
+    position: absolute;
+}
+
+/* Footer Style - Bottom-Right Corner */
+footer {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    font-size: 14px;
+    color: white;
+    font-weight: bold;
+}
+
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#yes-btn {
+    background-color: green;
+    color: white;
+}
+
+#no-btn {
+    background-color: red;
+    color: white;
+    position: absolute;
+}
+
+/* Footer Style - Bottom-Right Corner */
+footer {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
+}
+
